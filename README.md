@@ -1,58 +1,53 @@
+
 <h1 align="center">Hi, I'm Dev Dass 👋</h1>
 
-<h3 align="center">Python Developer | Aspiring AI/ML Engineer</h3>
+<h3 align="center">Python Programmer | Aspiring AI/ML Engineer</h3>
 
 <p align="center">
-  Learning Python, building projects, and exploring Artificial Intelligence and Machine Learning.
+  Learning Python, building projects, and exploring Artificial Intelligence.
 </p>
 
 ---
 
-### About Me
+## 🧑‍💻 About Me
 
-- I'm focused on Python programming.
-- I'm strengthening my problem-solving and programming skills.
-- I'm learning Python libraries and working with data.
-- I'm exploring Artificial Intelligence and Machine Learning.
-- My long-term goal is to become an AI/ML Engineer.
+- 🐍 Focused on Python programming
+- 🧠 Improving problem-solving skills
+- 📊 Exploring data analysis and Python libraries
+- 🤖 Learning Artificial Intelligence and Machine Learning
+- 🎯 Working toward becoming an AI/ML Engineer
 
-### Technologies & Tools
+## 🛠️ Skills & Technologies
 
-**Programming**
-- Python
+- **Language:** Python
+- **Libraries:** NumPy, Pandas
+- **Tools:** VS Code, Jupyter Notebook, Git, GitHub
+- **Interests:** Machine Learning, Deep Learning, Generative AI
 
-**Python Libraries**
-- NumPy
-- Pandas
+## 📚 My Learning Journey
 
-**Development Tools**
-- Git
-- GitHub
-- Visual Studio Code
-- Jupyter Notebook
+1. Python Fundamentals
+2. Object-Oriented Programming
+3. NumPy and Pandas
+4. Mathematics and Statistics
+5. Data Analysis
+6. Machine Learning
+7. Deep Learning
+8. Generative AI
 
-### Featured Projects
+## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| [Python](https://github.com/DevDass-web/Python) | Python learning and programming projects |
-| [Task Manager REST API](https://github.com/DevDass-web/Task-Manager-REST-API) | A practical programming project |
+- Python Programming Projects
+- Python Calculator
+- ATM Banking System
+- Data Analysis Projects
 
-### Current Goals
+## 🎯 Current Focus
 
-- Master Python programming.
-- Improve problem-solving skills.
-- Learn NumPy and Pandas.
-- Study Mathematics and Statistics for Machine Learning.
-- Learn Machine Learning and Deep Learning.
-- Work toward becoming an AI/ML Engineer.
-
-### Connect With Me
-
-- GitHub: [@DevDass-web](https://github.com/DevDass-web)
+Building strong Python skills and developing practical projects while progressing toward Artificial Intelligence and Machine Learning.
 
 ---
 
 <p align="center">
-  <i>Learning consistently. Building with Python. Growing toward AI/ML.</i>
+  <b>Learn • Build • Improve • Repeat</b>
 </p>
